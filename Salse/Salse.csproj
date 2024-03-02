@@ -67,6 +67,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bootstrap\bootstrap.min.css" />
+    <Content Include="bootstrap\bootstrap.min.js" />
+    <Content Include="bootstrap\jquery.min.js" />
+    <Content Include="bootstrap\popper.min.js" />
+    <Content Include="Images\fb.png" />
+    <Content Include="Images\Head.jpg" />
+    <Content Include="Images\icon.ico" />
+    <Content Include="Images\Pic.jpg" />
+    <Content Include="Images\tw.png" />
+    <Content Include="Images\yt.png" />
+    <Content Include="index.html" />
+    <Content Include="Styles\style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -81,6 +93,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
