@@ -33,3 +33,4 @@ C:\Users\Elkholy\source\repos\Salse\Salse\obj\Debug\Salse.csproj.CoreCompileInpu
 C:\Users\Elkholy\source\repos\Salse\Salse\obj\Debug\Salse.csproj.CopyComplete
 C:\Users\Elkholy\source\repos\Salse\Salse\obj\Debug\Salse.dll
 C:\Users\Elkholy\source\repos\Salse\Salse\obj\Debug\Salse.pdb
+C:\Users\Elkholy\source\repos\Salse\Salse\obj\Debug\Salse.csproj.AssemblyReference.cache

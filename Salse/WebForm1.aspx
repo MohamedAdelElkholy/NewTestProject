@@ -1,3 +1,7 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="Salse.WebForm1" %>
+
+<!DOCTYPE html>
+
 <html>
 	<head>		
 		<title>Elkholy-Programming</title>

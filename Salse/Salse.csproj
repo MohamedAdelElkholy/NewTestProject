@@ -71,20 +71,61 @@
     <Content Include="bootstrap\bootstrap.min.js" />
     <Content Include="bootstrap\jquery.min.js" />
     <Content Include="bootstrap\popper.min.js" />
+    <Content Include="default.aspx" />
     <Content Include="Images\fb.png" />
     <Content Include="Images\Head.jpg" />
     <Content Include="Images\icon.ico" />
+    <Content Include="Images\login.png" />
+    <Content Include="Images\login2.png" />
     <Content Include="Images\Pic.jpg" />
     <Content Include="Images\tw.png" />
     <Content Include="Images\yt.png" />
-    <Content Include="index.html" />
+    <Content Include="SignUp.aspx" />
     <Content Include="Styles\style.css" />
+    <Content Include="ucSignUp.ascx" />
     <Content Include="Web.config" />
+    <Content Include="WebForm1.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MainMaster.master.cs">
+      <DependentUpon>MainMaster.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MainMaster.master.designer.cs">
+      <DependentUpon>MainMaster.master</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SignUp.aspx.cs">
+      <DependentUpon>SignUp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SignUp.aspx.designer.cs">
+      <DependentUpon>SignUp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ucSignUp.ascx.cs">
+      <DependentUpon>ucSignUp.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ucSignUp.ascx.designer.cs">
+      <DependentUpon>ucSignUp.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="MainMaster.master" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
