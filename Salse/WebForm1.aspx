@@ -65,10 +65,10 @@
 			<div class="row">
 				<div class="col-md-4">الخولي لتكنولوجيا المعلومات</div>
 				<div class="col-md-4 centertext">جميع الحقوق محفوظة</div>
-				<div class="col-md-4 lefttext"><a href="http://www.facebook.com/ahmednaggar143" target="_blank"><img src="images/fb.png"/></a>
+				<%--<div class="col-md-4 lefttext"><a href="http://www.facebook.com/ahmednaggar143" target="_blank"><img src="images/fb.png"/></a>
 				<a href="http://www.twitter.com/ahmed_naggar143" target="_blank"><img src="images/tw.png"/></a>
 				<a href="http://www.youtube.com/c/أحمد النجار" target="_blank"><img src="images/yt.png"/></a>
-				</div>
+				</div>--%>
 			</div>
 		</footer>
 	</body>
