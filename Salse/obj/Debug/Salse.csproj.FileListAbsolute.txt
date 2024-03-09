@@ -27,10 +27,14 @@ C:\Users\Elkholy\source\repos\Salse\Salse\bin\roslyn\vbc.exe.config
 C:\Users\Elkholy\source\repos\Salse\Salse\bin\roslyn\vbc.rsp
 C:\Users\Elkholy\source\repos\Salse\Salse\bin\roslyn\VBCSCompiler.exe
 C:\Users\Elkholy\source\repos\Salse\Salse\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Elkholy\source\repos\Salse\Salse\bin\EntityFramework.dll
+C:\Users\Elkholy\source\repos\Salse\Salse\bin\EntityFramework.SqlServer.dll
 C:\Users\Elkholy\source\repos\Salse\Salse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Elkholy\source\repos\Salse\Salse\bin\EntityFramework.xml
+C:\Users\Elkholy\source\repos\Salse\Salse\bin\EntityFramework.SqlServer.xml
 C:\Users\Elkholy\source\repos\Salse\Salse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Elkholy\source\repos\Salse\Salse\obj\Debug\Salse.csproj.AssemblyReference.cache
 C:\Users\Elkholy\source\repos\Salse\Salse\obj\Debug\Salse.csproj.CoreCompileInputs.cache
 C:\Users\Elkholy\source\repos\Salse\Salse\obj\Debug\Salse.csproj.CopyComplete
 C:\Users\Elkholy\source\repos\Salse\Salse\obj\Debug\Salse.dll
 C:\Users\Elkholy\source\repos\Salse\Salse\obj\Debug\Salse.pdb
-C:\Users\Elkholy\source\repos\Salse\Salse\obj\Debug\Salse.csproj.AssemblyReference.cache
