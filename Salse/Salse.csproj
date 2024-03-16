@@ -89,6 +89,7 @@
       <DependentUpon>CourseModel.edmx</DependentUpon>
       <LastGenOutput>CourseModel.cs</LastGenOutput>
     </Content>
+    <Content Include="CustomerTest.aspx" />
     <Content Include="default.aspx" />
     <Content Include="Images\fb.png" />
     <Content Include="Images\Head.jpg" />
@@ -125,6 +126,13 @@
     </Compile>
     <Compile Include="Customer.cs">
       <DependentUpon>CourseModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerTest.aspx.cs">
+      <DependentUpon>CustomerTest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerTest.aspx.designer.cs">
+      <DependentUpon>CustomerTest.aspx</DependentUpon>
     </Compile>
     <Compile Include="default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
