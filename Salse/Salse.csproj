@@ -101,6 +101,7 @@
     <Content Include="Images\yt.png" />
     <Content Include="SignUp.aspx" />
     <Content Include="Styles\style.css" />
+    <Content Include="TestLINQE.aspx" />
     <Content Include="ucSignUp.ascx" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
@@ -164,6 +165,13 @@
     </Compile>
     <Compile Include="sysdiagram.cs">
       <DependentUpon>CourseModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TestLINQE.aspx.cs">
+      <DependentUpon>TestLINQE.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestLINQE.aspx.designer.cs">
+      <DependentUpon>TestLINQE.aspx</DependentUpon>
     </Compile>
     <Compile Include="ucSignUp.ascx.cs">
       <DependentUpon>ucSignUp.ascx</DependentUpon>
